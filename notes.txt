@@ -1,0 +1,76 @@
+Class - 1
+=========
+
+    -> Service Now 
+
+        -> Service Now Is An Ticketing Tool. 
+
+    
+    -> Service Now Timeline 
+
+        -> 2004 - 2012 
+
+            -> Born As An ITSM Tool 
+
+                -> Founded By Fred Luddy
+
+                -> Cloud Native Replacement For Legacy IT Help Desks 
+
+                -> Service Now is a "Platform As A Service" Product 
+                that is designed to support IT Service Management.
+
+                    -> Incident Management 
+
+                    -> Problem Management 
+
+                    -> Change Management 
+
+                    -> Knowledge Management 
+
+        
+        -> 2013 - 2022 
+
+            -> Enterprise Management 
+
+                -> From ITSM Expansion Started To Other Domains 
+
+                    -> HR (HRMS) 
+
+                    -> Finance 
+
+                    -> Legal / Compliance / Governance 
+
+                    -> Field Service Management 
+
+        
+        -> 2023 - 2026 
+
+            -> AI Enters Into Service Now Platform 
+
+                -> Now Assist (Generative AI Capabilities)               
+
+                    -> AI Search 
+
+                    -> AI Text Summarization 
+
+                    -> AI Into Workflows 
+
+
+    -> NOTE: In 2026, ServiceNow is the AI control tower for business reinvention.
+
+    -> ServiceNow is a cloud-based Software-as-a-Service (SaaS) platform 
+    that automates and manages enterprise workflows across 
+    IT, HR, customer service, security, and finance. 
+
+    -> ServiceNow is a single platform that brings together 
+    any AI, any data, and any workflow across every corner of your business.
+
+    -> NOTE: ServiceNow is running over 100 Billion Workflows Per Year.
+
+    
+
+
+
+
+
+
