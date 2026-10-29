@@ -68,6 +68,81 @@ Class - 1
     -> NOTE: ServiceNow is running over 100 Billion Workflows Per Year.
 
     
+Class - 2
+==========
+
+    -> ServiceNow is running over 100 Billion Workflows Per Year.
+
+    -> Workflow = Work + Flow (Work Flowing) i.e 
+    How Work Moves From One Step To Another Step Until It's Finished.
+
+    -> Real Life Workflow - Ordering Food Online 
+
+        -> Open Food Delivery App 
+
+        -> Select Restaurant 
+
+        -> Choose Food From Menu 
+
+        -> Add To Cart 
+
+        -> Pay For Order 
+
+        -> Restaurant Receives Order 
+
+        -> Food Being Prepared 
+
+        -> Delivery Partner Picks Up Order 
+
+        -> Order Delivered 
+
+    
+    -> In Terms Of Business 
+
+        -> A Workflow Is The Path A Task Follows From 
+
+            -> Request -> Approval -> Action -> Completion 
+
+        
+    -> Real IT Support Workflow 
+
+        TCS - Real Company Example 
+
+        Employee Says - "My Laptop Is Not Working"
+
+    
+    -> Step 1: Employee Raises A Ticket 
+
+        My Laptop is not starting - Submitted Via IT Portals or Help desk Tool 
+
+    -> Step 2: Manager Approval 
+
+        Manager Reviews Request and Approves it (New Replacement / Repair)
+
+    -> Step 3: IT Team Receives Request 
+
+        Tickets Will Be Generated - Teams Will Be Notified 
+
+    -> Step 4: Technician Checks Issues 
+
+        Technician Visits and hands over Laptop 
+
+        Technician Diagnoses Hardware Faults 
+
+    -> Step 5: Laptop Is Repaired or Replaced 
+
+        Issue Fixed By Replacing RAM 
+
+        Replacement Device Provisioned From IT Inventory (Stockroom)
+
+    -> Step 6: Ticket Closed 
+
+        Employee Who Raised Ticket, Confirms Issue Resolved 
+
+        IT Team Closes Ticket & Satisfaction Survey Sent 
+
+    
+
 
 
 
