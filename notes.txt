@@ -143,6 +143,131 @@ Class - 2
 
     
 
+Class - 3
+==========
+
+    -> ServiceNow Technology Stack 
+
+        -> ServiceNow is a platform-as-a-service that is designed to support 
+        IT service management and help desk functionality with automated workflows.
+
+        -> NOTE: https://drive.google.com/file/d/1qOe1bYXTcTHm6fK_CdCgJMXJNULjoJtq/view?usp=sharing   
+
+        -> ServiceNow fee model was based on a cost per user (seat) per month, 
+        with that cost ranging down from US$100.
+
+            -> MyKartHyd - One Seat 
+
+            -> MyFoodHyd - One Seat 
+
+            -> NOTE: In Our Practice Sessions / LAB 
+            We Would Use Free PDI Given From ServiceNow - One Free Seat 
+
+        
+        -> NOTE: The Free Seat / PDI Gives All the Capabilities We Need For ITSM OOB.
+
+    
+    -> platform-as-a-service 
+
+        -> Platform as a service (PaaS) or application platform as a service (aPaaS) 
+        is a cloud computing service model.
+
+        -> https://en.wikipedia.org/wiki/Platform_as_a_service
+
+        -> platform-based service is a" cloud computing service model" where 
+        users provision, instantiate, run and manage a modular bundle of a 
+        computing platform and applications, "without the complexity" of 
+        building and maintaining the infrastructure associated with 
+        developing and launching application(s), and to allow developers 
+        to create, develop, and package such software bundles.
+
+    
+    -> Cloud Computing 
+
+        -> Cloud Computing Offers 
+
+            -> Infrastructure As A Service (IAAS)
+            
+            -> Platform As A Service (PAAS) - ServiceNow 
+
+            -> Software As A Service (SAAS)
+
+
+        -> Infrastructure As A Service (IAAS) 
+
+                      Application
+
+                    Runtime / Libs 
+
+                    Operating System
+
+                      Virtualization
+
+                        Hardware
+
+            -> NOTE: Vendor Manages - Hardware & Virtualization
+
+            -> NOTE: You Manage - Operating System - Runtime / Libs  & Application 
+
+            -> AWS / AZURE / GCP / Dell / Intel / VM Ware / etc 
+
+
+        -> Platform As A Service (PAAS) 
+
+                      Application
+
+                    Runtime / Libs 
+
+                    Operating System
+
+                      Virtualization
+
+                        Hardware
+
+            -> NOTE: Vendor Manages - Hardware - Virtualization - Operating System & Runtime / Libs
+
+            -> NOTE: You Manage - Application
+
+            -> From ServiceNow Context 
+
+                -> You Simply Open Browser & Login To ServiceNow Platform 
+
+                -> Use Out Of The Box applications 
+
+                -> Build Your Own Applications (Based On Custom Requirements)
+
+                -> No Need To Manage 
+
+                    -> Servers 
+
+                    -> Operating Systems 
+
+                    -> Databases 
+
+                    -> Patching - Upgrades 
+
+                
+        -> Software As A Service (SAAS) 
+
+                      Application
+
+                    Runtime / Libs 
+
+                    Operating System
+
+                      Virtualization
+
+                        Hardware
+
+            -> NOTE: Vendor Manages - Hardware - Virtualization - Operating System - Runtime / Libs & Application
+
+            -> NOTE: You Manage - Nothing 
+
+            -> Office 365 - Google Suite Of Applications
+
+
+
+
 
 
 
