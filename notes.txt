@@ -266,6 +266,75 @@ Class - 3
             -> Office 365 - Google Suite Of Applications
 
 
+Class - 4
+==========
+
+    -> ServiceNow Technology Stack 
+
+        -> Infrastructure / OS: Service Now Private Cloud / Linux 
+
+        -> Core Engine: Java 
+
+        -> Application Server: Apache Tomcat 
+
+        -> Database: RaptorDB (Postgres) [Earlier MariaDB]
+
+        -> Frontend / UI: HTML5 - CSS - Bootstrap 
+
+        -> Scripting / Development: Javascript 
+
+        -> Integrations: REST and SOAP API's 
+
+    
+    -> To Get Started With ServiceNow, We Need ServiceNow Instance. 
+
+    -> What Is An Instance - Cloud     
+
+        -> An instance in cloud computing is a virtual server (virtual machine) 
+        running on a cloud provider's physical infrastructure, 
+        acting as a dedicated resource for running applications, databases, or websites.
+        (ec2-54-204-39-100.compute-1.amazonaws.com)
+
+    
+    -> What Is An Instance - ServiceNow
+
+        -> A ServiceNow Instance is a single-tenant copy of the ServiceNow platform 
+        hosted in the cloud, accessible via a unique web address 
+        (typically https://<instancename>.service-now.com)
+
+        -> When You Are Accessing ServiceNow, you are Accessing an 
+        Instance Of The Platform. 
+
+        -> An Organization Can have Multiple Instances 
+
+            -> Development Instance - New Features Development 
+
+            -> Test Instance - Test Features Developed (QA - Check Passed)
+
+            -> Production Instance - Live Data (Customers)
+
+
+    -> Creating ServiceNow Instance 
+
+        -> To Access The ServiceNow Platform, We Need An Instance i.e called 
+        Personal Development Instance (PDI) 
+
+        -> A ServiceNow Personal Developer Instance (PDI) is a free, fully featured 
+        sandbox environment where you can build, test, and experiment with platform 
+        features. You can request and manage your complimentary cloud instance directly 
+        through the ServiceNow Developer Site.
+
+            -> https://developer.servicenow.com/
+
+        -> Signup for Service Now Account 
+
+        -> https://signon.servicenow.com/x_snc_sso_auth.do?pageId=login
+
+            -> Get Service Now Account and Create 
+
+            -> Login With User email & Password 
+
+
 
 
 
