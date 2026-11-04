@@ -335,6 +335,66 @@ Class - 4
             -> Login With User email & Password 
 
 
+Class - 5
+==========
+
+    -> Once You Land In Developer Portal
+
+        -> The Many Way To Interact With ServiceNow is using these three primary components 
+
+            -> UI / Navigation Components
+
+                -> Banner Frame 
+
+                -> Content Frame 
+
+                -> Application Navigator 
+
+
+        -> Banner Frame 
+
+            -> It's also called Navigation Bar / Navigation Header 
+
+            -> Banner Frame is Fixed On Top and it has Multiple Options 
+
+                -> Logo, All, Favorites, workspaces etc 
+
+            -> We Have All Section, which is Application Navigator 
+
+                -> It Consists of Applications and Modules 
+
+                    -> Top Level Things Are Applications 
+
+                    -> Within The Applications, We Have Modules
+                    Within One Application we can have Multiple Modules  
+
+            -> We Have Favorites. which is like bookmarks in Browser
+
+                -> If you want to quickly access something, you can put it under Favorites 
+
+            -> We Have History, keeps track of Recently visited locations/pages in servicenow
+
+            -> We Have Workspaces, which provides access to persona based work designed for 
+            specific users and their job responsibilities, like cmdb workspace, asset workspace etc 
+
+            -> We Have Admin entry, gives access to administration related functionality, 
+
+            -> We Have Instance Selector, represents current service now context, from here 
+            also you can add to Favorites
+
+            -> We Have Global Search, where users can search for information rather than manually
+            navigating through menus. 
+
+            -> We Have Context(Globe), it provides access to application Development
+
+                -> Application Scope: Global 
+
+                    -> This Means you are currently working in global application scope. 
+
+
+
+
+
 
 
 
