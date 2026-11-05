@@ -392,13 +392,54 @@ Class - 5
                     -> This Means you are currently working in global application scope. 
 
 
+Class - 6
+==========
+
+    -> Sidebar discussions
+
+        -> This Allows the users to have discussions with other users, often in the context 
+        of task based records, such as Incidents, Problems etc 
+
+            -> Your Incident - INC000011
 
 
+    -> Usage Analytics 
+
+        -> It Provides Analytics, about the current page/user experience, such as 
+        page Usage and views. 
 
 
+    -> Help Content 
+
+        -> It Provides Access To ServiceNow Help/Support Resources.
+        For Accessing Documentation and Creating Documentation.
 
 
+    -> Notifications 
 
+        -> The Bell Icon Indicates Notifications, Users Can see Notifications Relevant to them.
+
+            -> Assigned Work 
+            -> Approval 
+            -> System Notifications
+            -> etc 
+
+    -> User Profile 
+
+        -> Impersonate User 
+
+            -> Impersonating allows admin to Impersonate others users in the platform, 
+            User called Abel Tutor is an IT Asset Manager, so admin wants to see how his
+            dashboard looks like, admin will Impersonate Abel Tutor.
+
+        -> Elevate Role 
+
+            -> In ServiceNow, elevating role means temporarily activating high level security 
+            permissions(such as security_admin) for the duration of your current user session.
+
+            -> This Feature Helps In Access Controls. 
+
+            
 
 
 
