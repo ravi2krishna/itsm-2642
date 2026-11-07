@@ -440,6 +440,32 @@ Class - 6
             -> This Feature Helps In Access Controls. 
 
             
+Class - 7
+==========
+
+    -> Taking Incident To Understand Data and Tables
+
+        -> Whatever You Store(data) in servicenow resides in Table.
+
+        -> All the data is stored in Rows & Columns.
+
+        -> In ServiceNow Rows are called as "Records"
+
+        -> In ServiceNow Columns are called as "Fields"
+
+
+    -> NOTE: By Default ServiceNow Creates Custom Tables In Global Scope. 
+    With these all the applications can access this table.
+
+    -> In the Application Navigator, 
+
+        -> Top Level Entities are Applications 
+
+        -> Under Applications, We Will Have Modules 
+
+    
+
+
 
 
 
