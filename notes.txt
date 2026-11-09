@@ -464,7 +464,69 @@ Class - 7
         -> Under Applications, We Will Have Modules 
 
     
+Class - 8
+==========
 
+    -> Extensible Option In Custom Table, Let's others table to use 
+    your table fields/properties. 
+
+        -> If i create a table My Table Now it can extend your Custom table 
+
+
+    -> Live Feed Option, is a real-time collaboration for records, lets you 
+    follow a record and receives updates.
+
+
+    -> Auto Numbering, is used to automatically Generate a Unique Identification 
+    Number for every record created in the table.
+
+        -> It Consists Of Prefix, means the starting characters of the record number 
+
+                Table                   Prefix 
+
+            -> Incident -               INC
+            -> Problem -                PRB
+            -> Change Request -         CHG 
+            -> My Custom -              MYC 
+
+        -> It Consists Of Number, specifying the starting numeric value of sequence 
+
+            -> My Number is 1000, sequence starts from 1000, when the record is created 
+
+                -> First Record - 1000
+                -> Second Record - 1001
+                -> Third Record - 1003
+                .
+                .
+        
+        -> Number Of Digits, this Controls the minimum number of numeric digits 
+        in the generated number.
+
+            -> Here the Number Of Digits is 7, which means servicenow uses 
+            seven digits for the numeric portion, adding leading zeros necessary 
+
+                            Actual Number               Formatted Number 
+                -> First Record - 1000                          0001000
+                -> Second Record - 1001                         0001001
+                -> Third Record - 1003                          0001003  
+                .
+                -> Next increment - 10000                       0010000
+
+
+        -> NOTE: The Actual Generated Number is 
+
+            -> First Record - 1000  --> 0001000 --> MY0001000 
+
+            -> Prefix - REQ 
+            -> Starting Number - 250 
+            -> Number Of Digits - 5
+            -> Number Of Records - 5
+ 
+            Record - 1  - REQ00250
+            Record - 2  - REQ00251
+            Record - 3  - REQ00252
+            Record - 4  - REQ00253
+            Record - 5  - REQ00254
 
 
 
