@@ -529,6 +529,53 @@ Class - 8
             Record - 5  - REQ00254
 
 
+Class - 9
+==========
+
+    -> To Add Fields To The Table, We Need To Know Form Configurations 
+
+    -> ServiceNow Provides Multiple Options To Configure Forms 
+
+        -> Form Layout 
+
+        -> Form Design 
+
+        -> Form Builder (***)
+
+    
+    -> Form Layout
+
+        -> A Basic Configuration Tool Used To Add, Remove and Rearrange Fields On a Form.
+
+        -> Arrange Fields Using A List 
+
+    -> Form Design 
+
+        -> A Graphical Based Drag and Drop Tool Used To Configure Form Fields, Forms Sections. 
+
+        -> Arrange Fields Visually 
+
+    -> Form Builder (***)
+
+        -> A Modern Visual Tool That Combines Form Layout and Form Design Capabilities 
+        and also provides additional Configuration features. 
+
+        -> Modern and Comprehensive Form Configuration Tool, Best of both worlds.
+
+    -> Every Table Contains Sys ID which is nothing but System ID, which is 
+    automatically generated for every record we create in the table.
+
+    -> This Sys ID Consists Of Alpha Numeric Values, it's an 32 characters long, unique generated value. 
+
+    
+
+
+
+
+
+
+
+
 
 
 
