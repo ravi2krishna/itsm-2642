@@ -567,7 +567,61 @@ Class - 9
 
     -> This Sys ID Consists Of Alpha Numeric Values, it's an 32 characters long, unique generated value. 
 
-    
+
+Class - 10
+==========
+
+    -> Service Now DataTypes 
+
+        -> Imagine a hospital named "MediCare General Hospital" that uses ServiceNow to manage 
+        patients, doctors, appointments, wards, assets etc 
+
+
+            Table Label             Table Name                  Description
+            
+            Patient                 u_patient                   Stores patient records
+
+            Doctor                  u_doctor                    Stores doctor profiles
+
+            Appointment             u_appointment               Tracks patient-doctor appointments
+
+            Ward                    u_ward                      Hospital ward / room info
+
+            Medical Equipment       u_medical_equipment         Tracks hospital assets 
+
+            Prescription            u_prescription              Medicines prescribed to patients
+
+
+        -> Will Create MediCare General Hospital Application, Under this Application Will Create
+        Modules(Tables) Like patients, doctors, appointments, wards, assets etc 
+
+        -> String data type is used to store free-form alphanumeric text and special characters.
+
+        -> Choice data type is a field type that allows users to select a single value 
+        from a pre-defined dropdown menu rather than entering free text like string.
+
+        -> Integer data type stores whole numbers with zero decimal places. 
+
+        -> The Decimal data type in ServiceNow is used to store exact numeric values 
+        with fractional parts (such as currency amounts, prices, budgets, and precise measurements)
+
+        -> The boolean data type is officially labeled True/False. It stores two-state values 
+        such as true or false, typically rendered as a checkbox on forms.
+
+        -> Date data type stores calendar dates without a time component
+        (YYYY-MM-DD)
+
+        -> Date/Time data type stores both a calendar date and a specific time of day
+        (YYYY-MM-DD) (HH:MM:SS)
+
+        -> Time data type stores a specific time of day without a date component
+        (HH:MM:SS)
+
+        -> Duration data type stores and displays a span of elapsed time(how long it takes)
+        (D HH:MM:SS) (0 00:20:20) (It takes 20 minutes)
+
+
+
 
 
 
