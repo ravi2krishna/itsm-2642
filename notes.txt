@@ -621,6 +621,18 @@ Class - 10
         (D HH:MM:SS) (0 00:20:20) (It takes 20 minutes)
 
 
+Class - 11
+==========
+
+    -> Reference DataType is a lookup field that stores the record from another table 
+
+        -> It renders as a field with Magnifying Class 
+
+    -> List Data Type, it's like a Reference data type, but allows multiple records to be 
+    selected from another table 
+
+
+
 
 
 
