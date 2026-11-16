@@ -632,7 +632,18 @@ Class - 11
     selected from another table 
 
 
+Class - 12
+==========
 
+    -> Form Sections & Other Data Types 
+
+        -> URL 
+
+        -> Currency 
+
+        -> Telephone 
+
+        
 
 
 
