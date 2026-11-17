@@ -644,8 +644,46 @@ Class - 12
         -> Telephone 
 
         
+Class - 13
+==========
+
+    -> Dependency Field
+
+        -> Just Like In Incident Form We Have Category and Sub-Category fields, 
+        based on the Category Field Selection, We can select Subcategory options. 
 
 
+    -> User Management In ServiceNow 
+
+        -> Users 
+
+        -> Groups 
+
+        -> Roles 
+
+        -> Access Controls 
+
+
+    -> User 
+
+        -> Every Person Who Logs Into ServiceNow and Uses The Platform Is a User. 
+
+            -> To Access The Platform We Need An User Account 
+
+            -> A User Can Be "Human" i.e Admin, Developer, Manager etc 
+
+            -> A User Can Be "Software/Tools" i.e User(Agent) Created To Perform Service Discovery in ITOM 
+
+            -> Each User Is a Record in the "sys_user" table, just like records in Patient / Incident Table 
+
+            -> Every User Records Stores information such as 
+
+                -> User ID
+                -> First Name 
+                -> Last Name 
+                -> Email 
+                -> Phone Number 
+                -> etc 
 
 
 
