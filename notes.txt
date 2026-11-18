@@ -686,6 +686,77 @@ Class - 13
                 -> etc 
 
 
+Class - 14
+==========
+
+    -> Groups 
+
+        -> A Group is logical collection of users 
+
+        -> All the groups in the ServiceNow are stored under "sys_user_group" table 
+
+        -> Groups Act Like Teams That Organize Users Who Share Same Purpose 
+
+        -> Groups Are Essential For 
+
+            -> Assigning Work: Incidents, Problems, Changes, HR Cases etc 
+            now can be Assigned on the Group Level 
+
+            -> Managing Permissions: Best Practice In ServiceNow Is Assign 
+            Roles To Groups, not directly to the users.
+
+                -> When A User is Added To Group, they automatically inherit 
+                the Groups Role(Permission)
+
+                -> This Approach Makes Onboarding, Transfers and Offboarding Much Easier.
+
+        
+
+    -> Roles 
+
+        -> A Role Is Bundle Of Permissions 
+
+        -> Roles Are Stored Under "sys_user_role" table 
+
+        -> Think Of Roles As A key That will Unlock 
+        Certain Actions To Be Done On ServiceNow 
+
+        -> Roles Can Allow Users To Do 
+
+            -> Create / Read / Update / Delete (CRUD)
+
+        -> Best Practices 
+
+            -> Assign Roles Primarily To Groups 
+
+            -> Add Users To Those Groups 
+
+            -> Avoid Assigning Many Roles directly to users, becomes hard to 
+            manage and audit 
+
+        -> We Have Close To 900+ Roles Available Out Of The Box 
+
+            -> admin - Nearly Full Access To System
+
+            -> security_admin - Role for Security Changes especially for ACL's 
+            (Access Control Lists)
+
+            -> itil - Role For IT Staff Handling Incidents / Problems / Changes 
+
+            -> Knowledge_admin - Role For Managing Knowledge Bases And Articles 
+
+            -> cmdb_admin - Role For Managing CMDB Configurations 
+
+        
+        -> NOTE: Always Follow This Model For Giving Access 
+
+            -> Create User 
+            -> Add User To Group 
+            -> Apply Required Roles For Those Groups 
+            -> Permissions inherited from groups 
+
+
+        
 
 
 
