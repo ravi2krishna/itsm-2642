@@ -763,6 +763,61 @@ Class - 15
     -> Creating Roles And Assign Custom Roles LAB
 
 
+Class - 16
+==========
+
+    -> Access Controls 
+
+        -> Access Controls are the important layer of security, which we use 
+        to grant permissions on different levels in servicenow.
+
+        -> NOTE: Taking Incidents as an use case, who will access to Incidents table ?
+
+            -> Based On roles like ITIL, Admin or Incident manager etc we get the access
+
+            -> But How are you defining that only these roles have access to specific
+            tables ?? Because Of Access Controls 
+
+        -> We Have Four Types Of Operations, CRUD 
+
+            -> Create 
+
+            -> Read
+
+            -> Update 
+
+            -> Delete 
+
+    -> We Have Three Types Of ACL 
+
+        -> Table Level ACL 
+
+            -> When you have table level ACL, it gives you complete access to table 
+
+        -> Record Level ACL 
+
+            -> When you have Record level ACL, it gives access to specific records 
+            in table 
+
+        -> Field Level ACL 
+
+            -> When you have Field level ACL, it gives access to specific fields only 
+
+    
+    -> NOTE: To Customize / Create ACL, we need special permission, 
+    even system admin cannot create ACL, out of the box. 
+
+    -> NOTE: To Customize / Create ACL You Need security_admin privileges
+    using admin --> Elevate Role --> Apply security_admin role 
+
+    
+
+
+
+
+
+
+
 
 
 
