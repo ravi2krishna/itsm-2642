@@ -835,13 +835,24 @@ Class - 17
 
         -> L2 should be able to Update incidents which are assigned to him 
 
-        -> L2 should be able to Update incidents all the incidents present in 
+        -> L3 should be able to Update incidents all the incidents present in 
         custom incident table 
 
         -> IM should be able to Update incidents all the incidents present in 
         custom incident table 
 
         -> IM should only be able to Delete the incident records 
+
+        
+
+Class - 18
+==========
+
+    -> Access Controls Continued 
+
+        -> Perform All CURD Operations - On Table Level 
+
+        -> Perform All CURD Operations - On Record Level 
 
         
 
