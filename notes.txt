@@ -855,8 +855,36 @@ Class - 18
         -> Perform All CURD Operations - On Record Level 
 
         
+Class - 19
+==========
+
+    -> Perform All CURD Operations - On Field Level 
+
+        -> When It Comes To Field Level ACL it has the highest precedence,
+        Field Level ACL > Table Level ACL > Record Level ACL 
 
 
+    -> Import Sets & Transform Maps 
+
+        -> Import Sets 
+
+            -> Import Sets is a Feature in servicenow which helps you 
+            import the external data from files like excel, csv etc 
+            into tables inside the servicenow.
+
+        -> Here We Have Two Types 
+
+            -> Directly Import Data From "Column Options" 
+
+            -> Import Data Using "Transformer"
+
+        
+        -> Directly Import Data From "Column Options" 
+
+            -> This Approach Allows You To Directly Import Data 
+            From "List View" Without Creating Import Sets 
+
+            
 
 
 
